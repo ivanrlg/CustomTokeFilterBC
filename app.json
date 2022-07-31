@@ -1,0 +1,29 @@
+{
+  "id": "eb8e04cf-4c5b-46a1-bf1d-e20d198dde67",
+  "name": "CustomFilter_IvanSingletonDev",
+  "publisher": "IvanSingleton publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "https://ivansingleton.dev/",
+  "help": "https://ivansingleton.dev/",
+  "url": "https://ivansingleton.dev/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 60100,
+      "to": 60149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
